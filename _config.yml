@@ -1,0 +1,32 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Amplify Demo Site
+email: justtestforanyone@foxmail.com
+description: >
+  思考的地方，也有理想与远方
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://9t.now.sh" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+name: 'Dyxang'
+bio: >
+  一个深夜总想写点什么的人。
+  一个总是不合众的人。
+author_image: "/assets/images/author.png"
+github_username:  Dyxang
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate
