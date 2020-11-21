@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Amplify Demo Site
-email: justtestforanyone@foxmail.com
+title: 途读随笔
+email: 
 description: >
   思考的地方，也有理想与远方
 logo: "/assets/images/logo.jpg"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://9t.now.sh" # the base hostname & protocol for your site
+baseurl: "/amp" # the subpath of your site, e.g. /blog
+url: "https://dyxang.gitee.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Dyxang'
